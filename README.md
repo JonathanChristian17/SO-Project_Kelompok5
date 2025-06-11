@@ -8,15 +8,14 @@ This project implements and analyzes various CPU scheduling algorithms including
 
 ## Requirements
 
-- Python 3.7+
-- Required packages are listed in `requirements.txt`
+- Python
 
 ## Installation
 
 1. Clone this repository
 2. Install the required packages:
 ```bash
-pip install -r requirements.txt
+pip install numpy matplotlib pandas
 ```
 
 ## Usage
@@ -36,7 +35,6 @@ This will:
 
 - `cpu_scheduling.py`: Contains the implementation of all scheduling algorithms
 - `simulation.py`: Contains the simulation and visualization code
-- `requirements.txt`: Lists all required Python packages
 
 ## Features
 
